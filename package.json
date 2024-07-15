@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/portfolio/",
+    "build": "vite build --base=/js_105_psht13/",
     "preview": "vite preview"
   },
   "devDependencies": {
